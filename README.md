@@ -1,2 +1,6 @@
-# EA-CAMP-I
-EA scalping untuk XAUUSD M5 dengan kombinasi MA trend filter dan Parabolic SAR entry. Dilengkapi SL/TP, Break-Even, Trailing Stop, serta kontrol harian (target profit, loss limit, max trades). Cocok untuk sesi London &amp; New York.
+# CampI-EA
+
+EA scalping untuk XAUUSD M5 dengan filter trend **MA** dan entry **Parabolic SAR**.  
+Fitur: **SL/TP, Break-Even, Trailing Stop, Daily Target, Loss Limit, Max Trades**.  
+Didesain untuk sesi London & New York.  
+Lisensi: All Rights Reserved (tidak untuk distribusi bebas).
