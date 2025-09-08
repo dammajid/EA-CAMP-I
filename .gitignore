@@ -1,41 +1,19 @@
-# Prerequisites
-*.d
+# MetaTrader build files
+*.ex5
+*.ex4
+*.ex
+*.log
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Tester cache
+/Tester/*
+/Profiles/*
+/Bases/*
+/MQL5/Logs/*
+/MQL5/Experts/Logs/*
+/MQL5/Indicators/Logs/*
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# Windows junk
+Thumbs.db
+*.tmp
+*.bak
+*.swp
